@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "eu.tutorials.unitconverter"
+    namespace = "com.example.unitconverter"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "eu.tutorials.unitconverter"
+        applicationId = "com.example.unitconverter"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

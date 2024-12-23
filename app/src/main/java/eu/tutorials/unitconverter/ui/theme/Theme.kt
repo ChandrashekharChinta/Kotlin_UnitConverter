@@ -1,4 +1,4 @@
-package eu.tutorials.unitconverter.ui.theme
+package com.example.unitconverter.ui.theme
 
 import android.app.Activity
 import android.os.Build
